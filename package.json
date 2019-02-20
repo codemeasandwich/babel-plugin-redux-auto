@@ -1,6 +1,6 @@
 {
 "name": "babel-plugin-redux-auto",
-"version": "0.1.0",
+"version": "0.1.1",
 "description": "Remove all console.* calls.",
 "keywords": [
 "babel-plugin",
